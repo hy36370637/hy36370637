@@ -25,7 +25,7 @@ This repository is mainly about my **Emacs configuration**, especially focused o
 
 - ⚙️ Emacs init files & settings
 - 📋 Org-mode workflows and templates
-- 🔧 Tips and tweaks for daily use on macOS (Apple Silicon)
+- 🈶 NaviIME — patched source and packaged release for Korean input in Emacs
 
 ---
 
