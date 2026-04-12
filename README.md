@@ -1,35 +1,40 @@
+## Hello, I'm 호영 👋
 
+Long career behind me. Quiet countryside ahead.  
+I live in **Goheung, Jeollanam-do** — a small coastal town in Korea 🌊🌿 —
+where the pace is slow and the hills are green.
 
-## About Me
-
-After a long career, I've retired and now enjoy a quiet rural life in **Goheung, South Jeolla Province, Korea** 🌿
-
-I spend my days exploring the peaceful countryside and diving deep into **Emacs** — my tool of choice for everything.
+When I'm not out walking, I'm inside Emacs. That's basically my whole life,
+and I'm perfectly happy with it.
 
 ---
 
-## 🖥️ My Setup
+## 🖥️ Tools of the Trade
 
-| Device | Chip |
-|--------|------|
+| Device      | Chip     |
+|-------------|----------|
 | MacBook Air | Apple M1 |
-| Mac Mini | Apple M2 |
+| Mac Mini    | Apple M2 |
 
-**Editor:** Emacs — living inside `org-mode` 🗂️
-
----
-
-## 📂 What's Here
-
-This repository is mainly about my **Emacs configuration**, especially focused on:
-
-- ⚙️ Emacs init files & settings
-- 📋 Org-mode workflows and templates
-- 🈶 NaviIME — patched source and packaged release for Korean input in Emacs
+Everything runs through **Emacs**. Org-mode is home base.
 
 ---
 
-## 🌱 Philosophy
+## 📂 What You'll Find Here
 
-> Less is more. A simple life in the countryside, powered by Emacs.
+Configs, experiments, and notes — mostly Emacs-related:
 
+- ⚙️ Init files and settings, refined over time
+- 📋 Org-mode templates and workflows
+- 🈶 **NavilIME** — a patched Korean IME for Emacs on macOS
+- ⌨️ **my-hangul** — a custom Emacs Lisp input method I built from scratch,
+  so I can type Korean natively inside Emacs without any external IME
+- 🩺 **Health tracking in Org-mode** — custom Emacs Lisp functions for logging
+  and monitoring blood pressure, keeping my daily health data right where I live
+
+---
+
+## 🌱 On Simplicity
+
+> *Less is more.*  
+> A quiet life, one Emacs buffer at a time.
