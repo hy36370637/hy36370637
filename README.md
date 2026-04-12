@@ -1,8 +1,8 @@
 ## Hello, I'm 호영 👋
 
 Long career behind me. Quiet countryside ahead.  
-I live in **Goheung, Jeollanam-do** — a small coastal town in Korea 🌊🌿 —
-where the pace is slow and the hills are green.
+I live in **Goheung, Jeollanam-do** — a quiet rural town on the southern coast of Korea 🌊🌿 —
+where the sea is calm, the seafood is fresh and abundant, and life moves at its own gentle pace.
 
 When I'm not out walking, I'm inside Emacs. That's basically my whole life,
 and I'm perfectly happy with it.
