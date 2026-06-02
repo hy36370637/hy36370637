@@ -27,7 +27,7 @@ Configs, experiments, and notes — mostly Emacs-related:
 - ⚙️ Init files and settings, refined over time
 - 📋 Org-mode templates and workflows
 - 🈶 **NavilIME** — a patched Korean IME for Emacs on macOS
-- ⌨️ **my-hangul** — a custom Emacs Lisp input method I built from scratch,
+- ⌨️ **hy-hangul** — a custom Emacs Lisp input method I built from scratch,
   so I can type Korean natively inside Emacs without any external IME
 - 🩺 **Health tracking in Org-mode** — custom Emacs Lisp functions for logging
   and monitoring blood pressure, keeping my daily health data right where I live
